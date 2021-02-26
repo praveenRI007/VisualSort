@@ -17,7 +17,9 @@ step to carry out:
 
 Here are the Results:
 1.SELECTION SORT:
-![](selectionSort.gif)
+<p align="center">
+  <img src="selectionSort.gif" alt="animated" />
+</p>
 
 2.BUBBLE SORT:
 ![](bubbleSort.gif)
