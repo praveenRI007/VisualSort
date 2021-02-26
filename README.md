@@ -16,27 +16,27 @@ step to carry out:
     4.display UI in cmd shell would pop up and you can check out the cool visualisation
 
 Here are the Results:
-1.SELECTION SORT:
+**1.SELECTION SORT:**
 <p align="center">
   <img src="selectionSort.gif" alt="animated" />
 </p>
 
-2.BUBBLE SORT:
+**2.BUBBLE SORT:**
 <p align="center">
   <img src="bubbleSort.gif" alt="animated" />
 </p>
 
-3.MERGE SORT:
+**3.MERGE SORT:**
 <p align="center">
   <img src="mergeSort.gif" alt="animated" />
 </p>
 
-4.QUICK SORT:
+**4.QUICK SORT:**
 <p align="center">
   <img src="quickSort.gif" alt="animated" />
 </p>
 
-5.INSERTION SORT:
+**5.INSERTION SORT:**
 <p align="center">
   <img src="insertionSort.gif" alt="animated" />
 </p>
