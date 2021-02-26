@@ -1,10 +1,10 @@
 # VisualSort
 ## this repo contains code for visualising the 5 general sorting algorithms
 
-####requirements : python 3.6 or higher
-####packages required : numpy , pygame
+**Requirements** : python 3.6 or higher
+Packages required : numpy , pygame
 
-####step to carry out:
+step to carry out:
     1. you can execute the code either each algorithms independently for visualising 
      
      [OR]
