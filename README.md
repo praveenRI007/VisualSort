@@ -14,3 +14,10 @@ step to carry out:
     3.open the py file main.py using python interpretor
 
     4.display UI in cmd shell would pop up and you can check out the cool visualisation
+
+Here are the Results:
+![](selectionSort.gif)
+![](bubbleSort.gif)
+![](mergeSort.gif)
+![](quickSort.gif)
+![](insertionSort.gif)
