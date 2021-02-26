@@ -15,7 +15,9 @@ step to carry out:
 
     4.display UI in cmd shell would pop up and you can check out the cool visualisation
 
-Here are the Results:
+## Here are the Results:
+
+
 **1.SELECTION SORT:**
 <p align="center">
   <img src="selectionSort.gif" alt="animated" />
