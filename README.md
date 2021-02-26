@@ -22,13 +22,21 @@ Here are the Results:
 </p>
 
 2.BUBBLE SORT:
-![](bubbleSort.gif)
+<p align="center">
+  <img src="bubbleSort.gif" alt="animated" />
+</p>
 
 3.MERGE SORT:
-![](mergeSort.gif)
+<p align="center">
+  <img src="mergeSort.gif" alt="animated" />
+</p>
 
 4.QUICK SORT:
-![](quickSort.gif)
+<p align="center">
+  <img src="quickSort.gif" alt="animated" />
+</p>
 
 5.INSERTION SORT:
-![](insertionSort.gif)
+<p align="center">
+  <img src="insertionSort.gif" alt="animated" />
+</p>
