@@ -30,7 +30,7 @@ step to carry out:
 
 **3.MERGE SORT:**
 <p align="center">
-  <img src="mergeSort.gif" alt="animated" />
+  <img src="MergeSort.gif" alt="animated" />
 </p>
 
 **4.QUICK SORT:**
